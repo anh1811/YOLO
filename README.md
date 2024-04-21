@@ -1,2 +1,2 @@
 # YOLO
-This is my doing during the intership and for purpose of studying
+This is my custom implementation of YOLOv1-v3 and custom training on YOLOv4
